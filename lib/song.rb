@@ -21,7 +21,7 @@ class Song
     # else
     #   nil
     # end
-    
+
     if self.artist == nil
       nil
     else
